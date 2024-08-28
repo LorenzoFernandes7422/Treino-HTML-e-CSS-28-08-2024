@@ -1,0 +1,30 @@
+html {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
+
+.link0 {
+  color: seagreen;
+  text-decoration: none;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
